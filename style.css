@@ -1,0 +1,19 @@
+html {
+  
+}
+
+.tagline > p {
+  padding-bottom: 0%;
+  margin-bottom: 0%;
+  
+
+}
+.tagline {
+  z-index: 1000;
+  position: absolute;
+
+  
+}
+ 
+
+
