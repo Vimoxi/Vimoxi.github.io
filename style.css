@@ -5,6 +5,9 @@ html {
 .tagline > p {
   padding-bottom: 0%;
   margin-bottom: 0%;
+  color: aliceblue;
+  text-shadow: 2px 2px black;
+  
   
 
 }
